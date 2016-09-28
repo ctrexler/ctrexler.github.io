@@ -9,3 +9,16 @@ html {
 body {
 	color: white;
 }
+
+#omega {
+
+	position: absolute;
+
+	bottom: 0px;
+
+	right:5;
+
+	color: #14B9FF;
+
+	font-size: 110%;
+}
