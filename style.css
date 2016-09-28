@@ -1,1 +1,4 @@
-body {  background-image: url(/images/DarkBlueSplash.png); } 
+body {
+	background-image: url(/images/DarkBlueSplash.png);
+	background-size: 100% 100%;
+} 
